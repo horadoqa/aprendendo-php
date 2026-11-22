@@ -36,25 +36,27 @@ A ideia é praticar, experimentar e acompanhar minha evolução como desenvolved
 ## Estrutura do projeto
 
 ```text
-aprendendo-php/
-    └──docs
-       ├── [Instalação do PHP](./docs/instalacao.md)
-       ├── [Fundamentos](./docs/fundamentos.md)
-       ├── [Strings](./docs/strings.md)
-       ├── [Variáveis](./docs/variaveis.md)
-       ├── [Operadores](./docs/operadores.md)
-       ├── [Condicionais](./docs/condicionais.md)
-       ├── [Repetições](./docs/repeticoes.md)
-       ├── [Arrays](./docs/arrays.md)
-       ├── [Funções](./docs/funcoes.md)
-       ├── [Formulários](./docs/formularios.md)
-       ├── [Cookies](./docs/cookies.md)
-       ├── [Banco de Dados](./docs/banco-dados.md)
-       ├── [POO](./docs/poo.md)
-       └── [CRUD](./docs/crud.md)
+aprendendo-php
+    ├── README.md
+    ├── docs
+    │   ├── arrays.md
+    │   ├── banco-dados.md
+    │   ├── condicionais.md
+    │   ├── cookies.md
+    │   ├── crud.md
+    │   ├── formularios.md
+    │   ├── funcoes.md
+    │   ├── fundamentos.md
+    │   ├── instalacao.md
+    │   ├── operadores.md
+    │   ├── plano-estudos.md
+    │   ├── poo.md
+    │   ├── repeticoes.md
+    │   ├── strings.md
+    │   └── variaveis.md
+    └── projetos
+        └── index.php
 ```
-
-_Observação: a estrutura será atualizada conforme novos conteúdos forem adicionados._
 
 ## Como executar os exemplos
 
@@ -71,9 +73,7 @@ git clone https://github.com/horadoqa/aprendendo-php.git
 3. Entre na pasta do projeto:
 
 ```bash
-cd aprendendo-php
-
-cd projetos
+cd aprendendo-php/projetos
 ```
 
 4. Execute o servidor embutido do PHP:
