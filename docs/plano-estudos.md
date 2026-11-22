@@ -8,21 +8,13 @@ Trilha de aprendizado
 
 Iniciante ao intermediário
 
-8 semanas
+Duração sugerida: 8 semanas
 
-Duração sugerida
+De 1 a 2 horas por dia
 
-1 a 2 horas
+40% teoria - Conceitos e explicações
 
-Por dia
-
-40% teoria
-
-Conceitos e explicações
-
-60% prática
-
-Exercícios e projetos
+60% prática - Exercícios e projetos
 
 ## 1. Preparando o ambiente de desenvolvimento
 
@@ -30,11 +22,33 @@ Objetivo: instalar as ferramentas necessárias para escrever e executar programa
 
 ### Ferramentas que você vai utilizar
 
-Waifly - INEXPENSIVE & PAID 24/7 Hosting
-
 > PHP
 
 Linguagem de programação utilizada para desenvolver aplicações web.
+
+A sigla PHP significa PHP: Hypertext Preprocessor.
+
+Para que serve o PHP?
+Com PHP, você pode:
+
+- Criar sites dinâmicos.
+- Desenvolver sistemas de login e cadastro.
+- Conectar sites a bancos de dados.
+- Criar lojas virtuais.
+- Desenvolver sistemas administrativos.
+- Criar APIs e sistemas para empresas.
+
+Como funciona?
+O PHP funciona principalmente no servidor (onde o site está hospedado).
+
+Por exemplo, imagine um site de login:
+
+- O usuário digita seu e-mail e senha.
+- O PHP recebe essas informações.
+- O PHP verifica os dados no banco de dados.
+- Se estiver tudo correto, permite o acesso.
+
+SISTEMA - LOGIN
 
 [Instalação do PHP no Linux](<https://www.php.net/downloads.php>)
 

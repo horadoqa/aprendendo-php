@@ -10,21 +10,21 @@ O repositório funciona como um espaço de aprendizado e evolução, onde compar
 
 A ideia é praticar, experimentar e acompanhar minha evolução como desenvolvedor.
 
-## Conteúdos estudados
+## Conteúdo
 
-- [ ]Introdução ao PHP
-- [ ]Sintaxe e variáveis
-- [ ]Tipos de dados
-- [ ]Operadores
-- [ ]Estruturas condicionais (`if`, `else`, `switch`)
-- [ ]Estruturas de repetição (`for`, `while`, `foreach`)
-- [ ]Arrays
-- [ ]Funções
-- [ ]Manipulação de formulários
-- [ ]Programação Orientada a Objetos (POO)
-- [ ]Conexão com banco de dados
-- [ ]PHP com MySQL
-- [ ]CRUD (Create, Read, Update, Delete)
+- [ ] Introdução ao PHP
+- [ ] Sintaxe e variáveis
+- [ ] Tipos de dados
+- [ ] Operadores
+- [ ] Estruturas condicionais (`if`, `else`, `switch`)
+- [ ] Estruturas de repetição (`for`, `while`, `foreach`)
+- [ ] Arrays
+- [ ] Funções
+- [ ] Manipulação de formulários
+- [ ] Programação Orientada a Objetos (POO)
+- [ ] Conexão com banco de dados
+- [ ] PHP com MySQL
+- [ ] CRUD (Create, Read, Update, Delete)
 
 ## Tecnologias utilizadas
 
@@ -36,17 +36,22 @@ A ideia é praticar, experimentar e acompanhar minha evolução como desenvolved
 ## Estrutura do projeto
 
 ```text
-aprendendo-PHP/
-│
-├── fundamentos/
-├── variaveis/
-├── condicionais/
-├── repeticoes/
-├── arrays/
-├── funcoes/
-├── poo/
-├── formularios/
-└── projetos/
+aprendendo-php/
+    └──docs
+       ├── [Instalação do PHP](./docs/instalacao.md)
+       ├── [Fundamentos](./docs/fundamentos.md)
+       ├── [Strings](./docs/strings.md)
+       ├── [Variáveis](./docs/variaveis.md)
+       ├── [Operadores](./docs/operadores.md)
+       ├── [Condicionais](./docs/condicionais.md)
+       ├── [Repetições](./docs/repeticoes.md)
+       ├── [Arrays](./docs/arrays.md)
+       ├── [Funções](./docs/funcoes.md)
+       ├── [Formulários](./docs/formularios.md)
+       ├── [Cookies](./docs/cookies.md)
+       ├── [Banco de Dados](./docs/banco-dados.md)
+       ├── [POO](./docs/poo.md)
+       └── [CRUD](./docs/crud.md)
 ```
 
 _Observação: a estrutura será atualizada conforme novos conteúdos forem adicionados._
@@ -54,6 +59,9 @@ _Observação: a estrutura será atualizada conforme novos conteúdos forem adic
 ## Como executar os exemplos
 
 1. Instale o PHP em sua máquina.
+
+[Instalação WIndows e Linux](./docs/install.md)
+
 2. Clone este repositório:
 
 ```bash
@@ -64,6 +72,8 @@ git clone https://github.com/horadoqa/aprendendo-php.git
 
 ```bash
 cd aprendendo-php
+
+cd projetos
 ```
 
 4. Execute o servidor embutido do PHP:
