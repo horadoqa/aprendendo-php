@@ -44,6 +44,7 @@ aprendendo-php
     │   ├── condicionais.md
     │   ├── cookies.md
     │   ├── crud.md
+    │   ├── diferenca.md
     │   ├── formularios.md
     │   ├── funcoes.md
     │   ├── fundamentos.md
