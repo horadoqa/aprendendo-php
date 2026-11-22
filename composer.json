@@ -1,0 +1,14 @@
+
+{
+    "name": "projeto/apresentacao-php",
+    "description": "Página de apresentação sobre a linguagem PHP utilizando HTML e CSS.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
